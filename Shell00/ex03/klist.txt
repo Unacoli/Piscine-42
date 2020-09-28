@@ -1,0 +1,5 @@
+Credentials cache: API:313160F0-4084-4040-87EB-4CE42AB9749B
+        Principal: nargouse@42.FR
+
+  Issued                Expires             Flags    Principal
+Sep  7 14:34:21 2020  Sep 14 14:34:14 2020  FPIA   krbtgt/42.FR@42.FR
